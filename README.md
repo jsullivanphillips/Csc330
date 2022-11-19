@@ -1,2 +1,2 @@
 # Csc330
-Projects in the course Programming Languages (Csc330) at UVic taught Functional Programming by way of the language SML & Racket.
+Projects in this course taught Functional Programming by way of the language SML & Racket.
